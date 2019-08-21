@@ -5,7 +5,7 @@
 
 # Las respuestas a las preguntas son:
 #                 Pregunta                                                    |                      Respuesta
-#                                                                             |
+#                                                                             
 # 1_ QUE NIVEL POSEE EL LENGUAJE ENSAMBLADOR?                                 |                        BAJO
 # 2_ QUE CODIGO TRADUCE EL LENGUAJE ENSAMBLADOR?                              |                       MAQUINA
 # 3_ QUE EJECUTA CON FRECUENCIA ESTE LENGUAJE PARA PODER PROGRAMAR?           |                    INSTRUCCIONES
