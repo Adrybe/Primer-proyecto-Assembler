@@ -8,8 +8,8 @@ jmp inicio
 ;Datos        
     hundle dw ?;No esta definido su valor.-Inicialmente-.   
     path_archivo2 db "C:\archivo3.txt", 0; El archivo almacenado en: C:\emu8086\vdrivers\C
-    path_archivo3 db "C:\preguntas2.txt", 0  El archivo almacenado en: C:\emu8086\vdrivers\C                                                            
-    path_archivo4 db "c:\archivo_ganado.txt", 0 El archivo almacenado en: C:\emu8086\vdrivers\C
+    path_archivo3 db "C:\preguntas2.txt", 0 ; El archivo almacenado en: C:\emu8086\vdrivers\C                                                            
+    path_archivo4 db "c:\archivo_ganado.txt", 0 ; El archivo almacenado en: C:\emu8086\vdrivers\C
     linea_enmemoria db 1440 dup(?)
     ganado_archivo db 1440 dup(?)  
     hundle3 dw ?
